@@ -1389,7 +1389,6 @@ mc-class.gr
 manipalacademyonline.edu.in
 wou.edu.my
 gsuite.bu.edu
-bu.edu
 tcdsb.ca
 uba.ar
 northweststate.edu
